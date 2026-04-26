@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- [Lovable](https://lovable.dev) - The AI-powered app builder used to create this project
+
 - [shadcn/ui](https://ui.shadcn.com/) - UI components
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Lucide Icons](https://lucide.dev/) - Beautiful icons
