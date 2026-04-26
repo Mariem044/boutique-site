@@ -1,13 +1,13 @@
 
 # StreetWear E-Commerce Platform
 
-[![Lovable Project](https://img.shields.io/badge/Built%20with-Lovable-purple)](https://lovable.dev/projects/ff3ff883-e8b0-40e9-b55e-c39776ebfdea)
+
 
 A modern, responsive e-commerce platform for streetwear fashion, built with React, TypeScript, and Tailwind CSS.
 
 ## 🚀 Demo
 
-Try out the live demo: [StreetWear Demo](https://lovable.dev/projects/ff3ff883-e8b0-40e9-b55e-c39776ebfdea)
+
 
 The demo showcases:
 - Responsive design optimized for all devices
@@ -87,9 +87,9 @@ npm install
 npm run dev
 ```
 
-### Environment Setup
 
-To connect with backend services, you'll need to set up environment variables through the Lovable interface or Supabase integration.
+
+
 
 ## 🤝 Contributing
 
